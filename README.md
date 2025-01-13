@@ -1,4 +1,4 @@
-Your OCR project involves extracting text from images and integrating a feature to send the extracted text to the OpenAI API for question-answering functionality. This combines text recognition with AI-driven content analysis to provide insightful responses based on the extracted data.
+This OCR project involves extracting text from images and integrating a feature to send the extracted text to the OpenAI API for question-answering functionality. This combines text recognition with AI-driven content analysis to provide insightful responses based on the extracted data.
 
 Image Input
 
