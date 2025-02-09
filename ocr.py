@@ -4,7 +4,7 @@ import openai
 
 # Set up Tesseract path
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 # OpenAI API Key
 openai.api_key ="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"
