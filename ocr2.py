@@ -1,6 +1,8 @@
 import requests
 ocr_url = "https://api.aimlapi.com/vision/ocr"
 image_path = r'C:\Users\Aditya\Desktop\ocr 3\sample_image.png'
+ocr_url = "https://api.aimlapi.com/vision/ocr"
+image_path = r'C:\Users\Aditya\Desktop\ocr 3\sample_image.png'
 
 # Your API key
 api_key = "d41f34e4922249fe8d1e0da290bcaea3"
